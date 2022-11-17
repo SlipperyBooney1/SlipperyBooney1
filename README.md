@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ## Things that I do or look for
 
 - Coding a website
@@ -14,4 +13,3 @@
 - Somewhere with a 3. something average for my GPA
 - Class of 2025
 - Aviator
--->
