@@ -3,7 +3,6 @@
 ## Things that I do or look for
 
 - Coding a website
-- Typing a 2 page essay
 - Working hard to prep and go to college
 - Procasinator
 - A nerd (consider me a nerd)
